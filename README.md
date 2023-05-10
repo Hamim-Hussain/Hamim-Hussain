@@ -1,6 +1,6 @@
 ![MasterHead](https://wallpapercave.com/wp/wp2763910.gif)
 <h1 align="center"><a href="https://github.com/Hamim-Hussain">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&color=rgb(200, 0, 255)&size=29&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi,+I'm+Hamim+Hussain%3BDiscovering+the+ possibilities+of+coding" alt="Typing SVG" /></h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&color=rgb(200, 0, 255)&size=29&duration=2000&pause=1000&multiline=true&width=500&height=80&lines=Hi,+I'm+Hamim+Hussain%3BDiscovering+the+ possibilities+of+coding" alt="Typing SVG" /></h1>
 </a>
 
 <h3 align="center">I am committed to broadening my skill set and staying current on industry technologies and trends</h3>
